@@ -1,5 +1,5 @@
 
-# Movie Semantic Search with Elasticsearch and Sentence Transformers 🔎
+# Movie Semantic Search with Elasticsearch and Streamlit App 🔎
 
 This project implements semantic search functionality using Elasticsearch and Sentence Transformers. Semantic search enables the retrieval of results based on the meaning and context of the query rather than just matching keywords. Specifically, in this project:
 
