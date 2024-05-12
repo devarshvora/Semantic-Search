@@ -52,7 +52,9 @@ This project implements semantic search functionality using Elasticsearch and Se
 
 As shown in the output, entering keywords like "Student Life" will give results of all Series Titles related to it.
 ![image](https://github.com/devarshvora/Semantic-Search/assets/60837459/48f91800-529f-4e7e-8812-5ed629064be9)
----
+
+
+
 ![image](https://github.com/devarshvora/Semantic-Search/assets/60837459/de449164-ff18-4645-9767-46a8bf97ce94)
 
 ---
