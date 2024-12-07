@@ -57,6 +57,4 @@ As shown in the output, entering keywords like "Student Life" will give results 
 
 ![image](https://github.com/devarshvora/Semantic-Search/assets/60837459/de449164-ff18-4645-9767-46a8bf97ce94)
 
----
 
-Feel free to adjust the README according to your project specifics and add any additional sections or details as needed.
